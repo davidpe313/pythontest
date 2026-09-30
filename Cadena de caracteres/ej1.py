@@ -1,3 +1,3 @@
-user=input("Introduce el nombre de tu usuario: ")
+name=input("Introduce tu nombre: ")
 num=int(input("Introduce un numero: "))
-print((user + "\n")*num)
+print((name + "\n")*num)

@@ -1,0 +1,6 @@
+print("Formato de fecha valido: XX/XX/XXXX")
+date=input("Introduce la fecha: ")
+date_div=date.split("/")
+print(f"Dia: {date_div[0]}")
+print(f"Mes: {date_div[1]}")
+print(f"Año: {date_div[2]}")

@@ -1,0 +1,6 @@
+word=input("Introduce una palabra: ")
+print(f"Numero de veces que aparece la a: {word.count("a")}")
+print(f"Numero de veces que aparece la e: {word.count("e")}")
+print(f"Numero de veces que aparece la i: {word.count("i")}")
+print(f"Numero de veces que aparece la o: {word.count("o")}")
+print(f"Numero de veces que aparece la u: {word.count("u")}")
